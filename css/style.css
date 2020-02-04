@@ -1,0 +1,17 @@
+.bitch {
+    background-size: cover;
+}
+
+.smile {
+    background-color: brown;
+    position: fixed;
+}
+
+.text {
+    font: bold, 200;
+    font-style: italic;
+    font-size: 160;  
+    position: relative;
+    color: aqua;
+
+}
