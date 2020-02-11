@@ -9,9 +9,9 @@
 
 .text {
     font: bold, 200;
-    font-style: italic;
+    font-style: normal;
     font-size: 160;  
-    position: relative;
-    color: aqua;
+    position: fixed;
+    color: white;
 
 }
