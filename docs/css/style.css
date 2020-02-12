@@ -3,14 +3,14 @@
 }
 
 .smile {
-    background-color: brown;
-    position: fixed;
+    position: right;
 }
 
 .text {
     font: bold, 200;
     font-style: normal;
-    font-size: 160;  
+    font-size: 160; 
+    font-family: fantasy; 
     position: fixed;
     color: white;
 
